@@ -1,0 +1,49 @@
+/*deeksha*/
+.title {
+  color: #e89b95;
+  font-size: 15px;
+}
+.name {
+  background-color: white;
+  color:black;
+  font-size: 20px;
+}
+.quest {
+  color: white;
+  font-size: 30px;
+  font-family: sans-serif;
+  text-align:center;
+}
+.info {
+  color: white;
+  font-size: 20px;
+  font-family: sans-serif;
+}
+.inform{
+  color: #F4F6F7;
+  font-size: 50px;
+  font-family: sans-serif;
+}
+.infor {
+  background-color: #1C2833;
+  color:white;
+  font-size: 20px;
+  font-family: sans-serif;
+}
+.infoo {
+  background-color: #34495E;
+  color:white;
+  font-size: 20px;
+  font-family: sans-serif;
+}
+.menta{
+  color: white;
+  font-size:20px;
+  font-family:sans-serif;
+}
+.risk{
+  background-color: #D7DBDD;
+  color:black;
+  font-size: 20px;
+  
+}
